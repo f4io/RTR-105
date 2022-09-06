@@ -10,3 +10,5 @@ Piemērs ar ![linku](https://myoctocat.com/assets/images/base-octocat.svg)
 1. seši
    - trīs
      * divi
+
+:+1::+1::+1::+1::+1::+1::+1::+1::+1::+1:
