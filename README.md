@@ -7,6 +7,7 @@ Piemērs ar ![linku](https://myoctocat.com/assets/images/base-octocat.svg)
 - [x] Dinārs
 - [ ] Trinārs
 
+#Saraksti
 1. seši
    - trīs
      * divi
