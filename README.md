@@ -2,3 +2,7 @@
 pamatkurss elektroniskā dienasgrāmata
 
 Piemērs ar ![linku](https://myoctocat.com/assets/images/base-octocat.svg) 
+
+- [ ] Vinārs
+- [x] Dinārs
+- [ ] Trinārs
