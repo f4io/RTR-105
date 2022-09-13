@@ -1,5 +1,5 @@
 # RTR-105
-pamatkurss elektroniskā dienasgrāmata
+pamatkurss elektroniskā dienasgrāmata. 
 
 Saturs:
 1. [Bildes](https://github.com/f4io/RTR-105/edit/main/README.md#bildes) 
