@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  pwd
+    5  dir
+    6  cd
+    7  who
+    8  whoami
+    9  youname
+   10  uname
+   11  help uname
+   12  man uname
+   13  uname -a
+   14  uname --all
+   15  man uname
+   16  5
+   17  1
+   18  2
+   19  3
+   20  4
+   21  quit
+   22  man echo
+   23  echo &0
+   24  echo
+   25  echo $0
+   26  ps
+   27  man ps
+   28  ps aux
+   29  ps -aux | grep
+   30  grep --help
+   31  grep
+   32  ps -aux | grep
+   33  ps -aux | grep firefox
+   34  grep firefox
+   35  man grep
+   36  history
+   37  history > history_20220913a.txt
