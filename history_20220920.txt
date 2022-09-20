@@ -66,3 +66,91 @@
    66  ls -alt
    67  history 
    68  history > history_20220920.txt
+   69  ls
+   70  nano git-upload
+   71  ls
+   72  cat git-upload 
+   73  ls -alt
+   74  man chmod
+   75  chmod 764 git-upload 
+   76  ;s
+   77  ls
+   78  whereis ls
+   79  echo $path
+   80  echo $PATH
+   81  ./git-upload 
+   82  nano git-upload 
+   83  ./git-upload 
+   84  sniga
+   85  ls
+   86  cd RTR-105/
+   87  ls
+   88  cat README.md 
+   89  =
+   90  sds
+   91  simh
+   92  sim4
+   93  nigckiga
+   94  man
+   95  1
+   96  man
+   97  ls
+   98  cd
+   99  ls
+  100  Documents/
+  101  cd Documents/
+  102  ls
+  103  cd Downloads
+  104  cd ./
+  105  cd /.
+  106  cd /home/user/Documents
+  107  cd /home/user/Downloads
+  108  ls
+  109  cat octocat-1663667184501.png 
+  110  ls
+  111  nano octocat-1663667184501.png 
+  112  fg
+  113  ls
+  114  cd Videos/
+  115  ls
+  116  pwrd
+  117  pwd
+  118  cd /home/user/RTR-105/
+  119  lsa
+  120  ls -alt
+  121  cd .git
+  122  ls
+  123  ls -alt
+  124  cd info/
+  125  ls
+  126  cat exclude 
+  127  cd
+  128  history | grep
+  129  history | grep git
+  130  hitory | grep clone
+  131  history | grep clone
+  132  ls
+  133  rm -d RTR-105/
+  134  rm -r RTR-105/
+  135  y
+  136  ls
+  137  cd RTR-105/
+  138  ls
+  139  cd
+  140  rmdir RTR-105/
+  141  rm -r RTR-105/
+  142  ls
+  143  git clone https://github.com/f4io/RTR-105
+  144  ls
+  145  cd RTR-105/
+  146  git
+  147  ls
+  148  echo $PATH
+  149  PATH=$PATH
+  150  echo $PATH
+  151  PATH=$PATH:./
+  152  echo $PATH
+  153  cd usr/local/anaconda3/bin
+  154  cd /home/user
+  155  cd local
+  156  history > history_20220920.txt
