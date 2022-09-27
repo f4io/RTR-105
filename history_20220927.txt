@@ -1,0 +1,119 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  sniga
+    4  history
+    5  man quartus
+    6  pwd
+    7  git clone https://github.com/f4io/RTR-150
+    8  git clone https://github.com/f4io/RTR-105
+    9  pwd
+   10  ls
+   11  ls lt
+   12  ls -lt
+   13  cd RTR-105/
+   14  ls
+   15  cat history_20220913a.txt 
+   16  whereis ls
+   17  echo $PATH
+   18  pwd
+   19  mkdir Class_06
+   20  ls
+   21  cd Class_06/
+   22  pwd
+   23  nano
+   24  nano firstc
+   25  cat firstc 
+   26  gcc firstc
+   27  mv firstc first.c
+   28  gcc first.c 
+   29  man gcc
+   30  pwd
+   31  cat first.c 
+   32  ls
+   33  cat a.out 
+   34  ls
+   35  ls -alt
+   36  cd ..
+   37  ls
+   38  cd Class_06/
+   39  ls
+   40  cd ./
+   41  ls
+   42  cd p
+   43  cd
+   44  cd Class_06
+   45  cd RTR-105/
+   46  cd Class_06/
+   47  /home/user/RTR-105/Class_06/a.out 
+   48  ~/RTR-105/Class_06/a.out 
+   49  pwd
+   50  ./
+   51  ./a.out 
+   52  a.out
+   53  cd
+   54  cd Class_06/
+   55  cd RTR-105/Class_06/
+   56  cd
+   57  cd RTR-105/Class_06/
+   58  ../Class_06/a.out
+   59  cd ..
+   60  tree 
+   61  snap install tree
+   62  man snap
+   63  cd Class_06/
+   64  ./a.out 
+   65  nano a.out 
+   66  ls
+   67  nano first.c 
+   68  echo $?
+   69  a.out
+   70  echo $?
+   71  ls
+   72  echo $?
+   73  okokokokokokkokookokokko
+   74  echo $?
+   75  cd fas
+   76  echo $?
+   77  nano first.c 
+   78  gcc first.c 
+   79  ls
+   80  ./a.out
+   81  echo $?
+   82  nano first.c 
+   83  echo $?
+   84  nano first.c 
+   85  gcc first.c 
+   86  ./a.out 
+   87  echo #?
+   88  echo $?
+   89  nano first.c 
+   90  ls -lt
+   91  rgurgururrgruruururrrhurururhururuhrruhurgrugurrurguhrruruhruhrguhrguhruhrguhrghurguhrguhrghurguhrguhrgrrhrhrgruhrguhuuhuruhrguhrghuruhurghuruhrrgurhurguhrurgrgrrghuhuhrghuuuhhurhurhurrhurhhuruhruhruhurghuurhruhhghrughrgurhgurhgurhgurghrughrughrghurgrgrgurhuhurururhhuuhrugurughhuruguhruuguhurghrugrhugrhgurugrhguhruhruhgurghurughrughruhgrughruhurhgurgrrrrrrrrrrrrrrhggggggggggggggrughruhgrug
+   92  rgurgururrgruruururrrhurururhururuhrruhurgrugurrurguhrruruhruhrguhrguhruhrguhrghurguhrguhrghurguhrguhrgrrhrhrgruhrguhuuhuruhrguhrghuruhurghuruhrrgurhurguhrurgrgrrghuhuhrghuuuhhurhurhurrhurhhuruhruhruhurghuurhruhhghrughrgurhgurhgurhgurghrughrughrghurgrgrgurhuhurururhhuuhrugurughhuruguhruuguhurghrugrhugrhgurugrhguhruhruhgurghurughrughruhgrughruhurhgurgrrrrrrrrrrrrrrhggggggggggggggrughruhgrug
+   93  man VirtualBox 
+   94  gcc first.c -o first.out
+   95  ls
+   96  man VirtualBox 
+   97  cd ..
+   98  tree
+   99  ls -alt
+  100  nano .gitignore
+  101  ls
+  102  ls -alt
+  103  cd Class_06/
+  104  ls
+  105  gcc first.c -S -o first.out
+  106  ls -lt
+  107  ls -alt
+  108  gcc first.c -S -save-temps -o first.out
+  109  ls -lat
+  110  cat first.i
+  111  cat first.c
+  112  hexdump -C first.c
+  113  snap install tree
+  114  cd RTR-105/Class_06/
+  115  ls
+  116  cd ..
+  117  git-upload 
+  118  ./git-upload 06
+  119  history > history_20220927.txt
