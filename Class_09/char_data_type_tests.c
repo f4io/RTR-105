@@ -26,6 +26,13 @@ printf("b mainīga vērtība kā decimlāls: %d\n",b);
 printf("b mainīga vērtība kā heksidecimāls: %0x\n",b);
 printf("b mainīga vērtība kā oktāls: %#o\n",b);
 
+unsigned char c = 320;
+printf("c mainīga vērtība pirms vērtības piešķiršanas kā simbols: %c\n",c);
+printf("c mainīga vērtība kā decimlāls: %d\n",c);
+printf("c mainīga vērtība kā heksidecimāls: %0x\n",c);
+printf("c mainīga vērtība kā oktāls: %#o\n",c);
+
+
 b = 250;
 return 0;
 }
